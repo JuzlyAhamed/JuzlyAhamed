@@ -9,18 +9,14 @@
   <img align="left" alt="Juzly Ahamed - Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
 </a>
 <br />
-<br />
-
 ### “In a time of drastic change it is the learners who inherit the future. The learned usually find themselves equipped to live in a world that no longer exists.” -Eric Hoffer
-
-My life thumbnail sketch :
-<ul style="none">
+<ul>
 <li> 🔭 I’m currently working on Breezebee, and an undergratuate of University of Colombo School of Computing. </li>
 <li> 📚 What do I beleive? Jack of all, Master of some. </li>
 <li> 🌱 I’m currently learning to manage my time, and be productive. </li>
 <li> 👯 I’m looking to collaborate on any idea that impresses me. </li>
 <li> 💬 Ask me about Web Development,Design, Marketing, Sales, Community Building. </li>
-<li> 📫 How to reach me: Innovative Coder  </li>
+<li> 📫 How to reach me: Juzly Ahamed </li>
 <li> ⚡ Fun fact: I love Irish Coffee ☕ </li>
 </ul>
 
