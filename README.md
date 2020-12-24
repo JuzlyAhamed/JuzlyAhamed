@@ -9,7 +9,8 @@
 <a href="https://www.instagram.com/juzly_ahamed98/">
   <img align="left" alt="Juzly Ahamed - Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
 </a>
-<br />
+<br/>
+
 <ul>
 <li> 🔭 I’m currently working on Breezebee, and an undergratuate of University of Colombo School of Computing. </li>
 <li> 📚 What do I beleive? Jack of all, Master of some. </li>
