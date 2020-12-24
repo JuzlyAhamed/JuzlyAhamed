@@ -10,7 +10,6 @@
   <img align="left" alt="Juzly Ahamed - Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
 </a>
 <br />
-### “In a time of drastic change it is the learners who inherit the future. The learned usually find themselves equipped to live in a world that no longer exists.” -Eric Hoffer
 <ul>
 <li> 🔭 I’m currently working on Breezebee, and an undergratuate of University of Colombo School of Computing. </li>
 <li> 📚 What do I beleive? Jack of all, Master of some. </li>
