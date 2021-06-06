@@ -1,7 +1,7 @@
 
 ### Welcome to my GitHub 👋
 
-[![HitCount](http://hits.dwyl.com/JuzlyAhamed/JuzlyAhamed.svg)](http://hits.dwyl.com/JuzlyAhamed/JuzlyAhamed)
+
 
 <a href="linkedin.com/in/juzly-ahamed-5953a3185">
   <img align="left" alt="Juzly Ahamed - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
