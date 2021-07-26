@@ -3,7 +3,7 @@
 
 
 
-<a href="linkedin.com/in/juzly-ahamed-5953a3185">
+<a href="https://www.linkedin.com/in/juzly-ahamed/">
   <img align="left" alt="Juzly Ahamed - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>
 <a href="https://www.instagram.com/juzly_ahamed98/">
@@ -16,7 +16,7 @@
 <li> 📚 What do I beleive? Jack of all, Master of some. </li>
 <li> 🌱 I’m currently learning to manage my time, and be productive. </li>
 <li> 👯 I’m looking to collaborate on any idea that impresses me. </li>
-<li> 💬 Ask me about Web Development,Design, Marketing, Sales, Community Building. </li>
+<li> 💬 Ask me about Java,Design, Marketing, Sales, Community Building. </li>
 <li> 📫 How to reach me: Juzly Ahamed </li>
 <li> ⚡ Fun fact: I love Irish Coffee ☕ </li>
 </ul>
@@ -29,8 +29,6 @@
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
