@@ -12,7 +12,7 @@
 <br/>
 <br/>
 <ul>
-<li> 🔭 I’m currently working on Breezebee, and an undergratuate of University of Colombo School of Computing. </li>
+<li> 🔭 I’m currently working on Avtra as Associate Software Engineer, and an undergratuate of University of Colombo School of Computing. </li>
 <li> 📚 What do I beleive? Jack of all, Master of some. </li>
 <li> 🌱 I’m currently learning to manage my time, and be productive. </li>
 <li> 👯 I’m looking to collaborate on any idea that impresses me. </li>
